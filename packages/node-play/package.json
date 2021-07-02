@@ -1,0 +1,22 @@
+{
+  "name": "node-play",
+  "version": "0.0.0",
+  "description": "play node",
+  "author": "wufeihuang <wufeihuang@foxmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "inquirer": "^8.1.1"
+  }
+}
